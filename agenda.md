@@ -1,0 +1,1 @@
+- AddCalc als Coding Dojo in der Gruppe (Jeder 10 min. coden)

@@ -27,7 +27,6 @@ Spezifikationen
  		- 15 --> FizzBuzz
  		-  1 --> 1
  
-
- Testframeworks:
-- XUnit
-- Shouldly
+Testframeworks:
+ - XUnit
+ - Shouldly

@@ -1,0 +1,16 @@
+Roadmap
+
+ - Grundlagen Unit Testing
+  - Definition Unit Test
+  - Abgrenzung zu Integration Tests
+  - Fakes (Stubs, Mocks)
+  - Frameworks
+    - Xunit
+    - Shouldly
+    - NSubstitute
+    - Autofixture
+ - Professionalisierung Unit Testing
+  - Namenskonventionen
+  - Testorganisation
+  - Automocking
+  - Builder Pattern

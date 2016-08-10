@@ -9,11 +9,16 @@ Roadmap
     - Shouldly oder FluentAssertions
     - NSubstitute
     - Autofixture
+  - Testrunner
+   - Resharper
+   - NCrunch
+   - Visual Studio
  - Professionalisierung Unit Testing
   - Namenskonventionen
   - Testorganisation
   - Automocking
   - Builder Pattern
+  - Continious Integration
 
 Orthogonal
 - Fragen

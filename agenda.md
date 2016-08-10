@@ -1,9 +1,9 @@
 - Agenda
-	- Wiederholung (5-10min)
+	- Wiederholung (10min)
 		- Fragen (timeboxed)
-	- Dojo
-	- Feedback
-	- Nächste Session planen
+	- Dojo (90min)
+	- Feedback (10min)
+	- Nächste Session planen (10min)
 
 - Coding Dojo
   - AddCalc in große Runde

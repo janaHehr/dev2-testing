@@ -5,8 +5,8 @@ Roadmap
   - Abgrenzung zu Integration Tests
   - Fakes (Stubs, Mocks)
   - Frameworks
-    - Xunit
-    - Shouldly
+    - Xunit oder Fixie
+    - Shouldly oder FluentAssertions
     - NSubstitute
     - Autofixture
  - Professionalisierung Unit Testing

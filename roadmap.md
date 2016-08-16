@@ -19,7 +19,7 @@ Roadmap
   - Automocking
   - Builder Pattern
   - Continious Integration
-  - Testing von Equals (E"quality pollution")
+  - Testing von Equals ("Equality pollution")
 
 Orthogonal
 - Fragen

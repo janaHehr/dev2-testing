@@ -20,6 +20,8 @@ Roadmap
   - Builder Pattern
   - Continious Integration
   - Testing von Equals ("Equality pollution")
+  - Datengetriebene Tests
+  - Datenbankintegrationstests
 
 Orthogonal
 - Fragen

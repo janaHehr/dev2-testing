@@ -1,3 +1,12 @@
+18.05.2016
+- Agenda
+  - Wiederholung
+  - Feedback
+  - Theorie Fakes (Stubs, Mocks / Statusbasiertes vs interaktionsbasiertes Testen)
+  - Hands on
+
+
+12.05.2016
 - Agenda
 	- Wiederholung (10min)
 		- Fragen (timeboxed)

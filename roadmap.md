@@ -16,12 +16,12 @@ Roadmap
  - Professionalisierung Unit Testing
   - Namenskonventionen
   - Testorganisation
-  - Automocking
+  - Automocking mit AutoFixture
   - Builder Pattern
-  - Continious Integration
   - Testing von Equals ("Equality pollution")
   - Datengetriebene Tests
   - Datenbankintegrationstests
+  - Continious Integration
 
 Orthogonal
 - Fragen

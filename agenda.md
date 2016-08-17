@@ -1,4 +1,4 @@
-18.05.2016
+18.08.2016
 - Agenda
   - Wiederholung/Feedback
   	- FizzBuzz
@@ -10,7 +10,7 @@
   	- NSubstitute
 
 
-12.05.2016
+12.08.2016
 - Agenda
 	- Wiederholung (10min)
 		- Fragen (timeboxed)

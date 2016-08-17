@@ -7,3 +7,5 @@ Blogs:
 - [Automated Testing - Jeremy D. Miller](https://jeremydmiller.com/category/automated-testing/)
 - [Unit Testing - Mark Seemann](http://blog.ploeh.dk/tags/#Unit%20Testing-ref)
 - [Software Design - Mark Seemann](http://blog.ploeh.dk/tags/#Software%20Design-ref)
+- [Mockists Are Dead. Long Live Classicists.](https://www.thoughtworks.com/insights/blog/mockists-are-dead-long-live-classicists)
+- [Mocks are a code smell](http://codebetter.com/gregyoung/2008/02/13/mocks-are-a-code-smell/)

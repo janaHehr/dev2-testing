@@ -4,7 +4,7 @@
   	- FizzBuzz
   	- FizzBuzz Ohne Mocking
   - Theorie Fakes (Stubs, Mocks / Statusbasiertes vs interaktionsbasiertes Testen)
-  	- Was weiß das Team
+  	- Was weiß das Team?
   	- Ergänzungen
   - Hands on
   	- Manuelle Stubs/Mocks

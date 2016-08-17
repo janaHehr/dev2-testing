@@ -10,5 +10,6 @@ Blogs:
 - [Mockists Are Dead. Long Live Classicists.](https://www.thoughtworks.com/insights/blog/mockists-are-dead-long-live-classicists)
 - [Mocks are a code smell](http://codebetter.com/gregyoung/2008/02/13/mocks-are-a-code-smell/)*
 - [Classicist vs. Mockist Test-Driven Development](http://codebetter.com/iancooper/2008/02/04/classicist-vs-mockist-test-driven-development/)
+- [Avoid Testing Implementation Details, Test Behaviours](http://codebetter.com/iancooper/2011/10/06/avoid-testing-implementation-details-test-behaviours/)
 
 *mind-blowing

@@ -1,9 +1,13 @@
 18.05.2016
 - Agenda
-  - Wiederholung
-  - Feedback
+  - Wiederholung/Feedback
+  	- FizzBuzz
+  	- FizzBuzz Ohne Mocking
   - Theorie Fakes (Stubs, Mocks / Statusbasiertes vs interaktionsbasiertes Testen)
+  	- Was weiß das Team
+  	- Ergänzungen
   - Hands on
+  	- NSubstitute
 
 
 12.05.2016

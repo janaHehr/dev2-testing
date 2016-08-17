@@ -7,6 +7,7 @@
   	- Was weiß das Team
   	- Ergänzungen
   - Hands on
+  	- Manuelle Stubs/Mocks
   	- NSubstitute
 
 

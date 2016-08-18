@@ -1,5 +1,4 @@
-﻿using NSubstitute;
-using Shouldly;
+﻿using Shouldly;
 using Xunit;
 
 namespace Mocking_Stubbing
@@ -30,7 +29,6 @@ namespace Mocking_Stubbing
             return 0;
         }
     }
-
 
     public class CustomerRepositoryStub : ICustomerRepository
     {

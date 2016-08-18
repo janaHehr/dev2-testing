@@ -1,3 +1,10 @@
+25.08.2016
+- Agenda
+  - Wiederholung Time-boxed
+  - Manuelle Faking beenden 
+  - Jana NSubstitute
+  - NSubstitute verwenden
+
 18.08.2016
 - Agenda
   - Wiederholung/Feedback

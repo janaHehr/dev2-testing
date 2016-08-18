@@ -13,6 +13,7 @@ Roadmap
    - Resharper
    - NCrunch
    - Visual Studio
+   - TDD Grundlagen
  - Professionalisierung Unit Testing
   - Namenskonventionen
   - Testorganisation

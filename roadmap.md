@@ -17,6 +17,7 @@ Roadmap
  - Professionalisierung Unit Testing
   - Namenskonventionen
   - Testorganisation
+  - Humble Object
   - Automocking mit AutoFixture
   - Builder Pattern
   - Testing von Equals ("Equality pollution")

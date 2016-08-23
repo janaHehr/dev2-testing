@@ -11,6 +11,7 @@ Blogs:
 - [Mocks are a code smell](http://codebetter.com/gregyoung/2008/02/13/mocks-are-a-code-smell/)
 - [Classicist vs. Mockist Test-Driven Development](http://codebetter.com/iancooper/2008/02/04/classicist-vs-mockist-test-driven-development/)
 - [Avoid Testing Implementation Details, Test Behaviours](http://codebetter.com/iancooper/2011/10/06/avoid-testing-implementation-details-test-behaviours/)
+- [Mocks for Commands, Stubs for Queries](http://blog.ploeh.dk/2013/10/23/mocks-for-commands-stubs-for-queries/)
 
 Design:
 - [Commands are Composable](http://blog.ploeh.dk/2011/03/22/CommandsareComposable/)

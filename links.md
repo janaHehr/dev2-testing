@@ -12,4 +12,7 @@ Blogs:
 - [Classicist vs. Mockist Test-Driven Development](http://codebetter.com/iancooper/2008/02/04/classicist-vs-mockist-test-driven-development/)
 - [Avoid Testing Implementation Details, Test Behaviours](http://codebetter.com/iancooper/2011/10/06/avoid-testing-implementation-details-test-behaviours/)
 
+Design:
+- [Commands are Composable](http://blog.ploeh.dk/2011/03/22/CommandsareComposable/)
+
 *mind-blowing

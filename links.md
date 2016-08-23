@@ -14,5 +14,6 @@ Blogs:
 
 Design:
 - [Commands are Composable](http://blog.ploeh.dk/2011/03/22/CommandsareComposable/)
+- [Holistic Abstractions](http://scrapbook.qujck.com/holistic-abstractions-take-2/)
 
 *mind-blowing
